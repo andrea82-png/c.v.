@@ -4,6 +4,7 @@ something pulled out of nothing
 ========= "data and growth_unprotected.xlsx" =========
 
 DISCLAIMER:
+
 no scientific reference is to be assumed for any usage of this sheet. 
 this is purely a personal and non-professional attempt of analyzing this event.
 
