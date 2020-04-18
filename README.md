@@ -8,6 +8,7 @@ no scientific reference is to be assumed for any usage of this sheet.
 this is purely a personal and non-professional attempt of analyzing this event.
 
 DESCRIPTION:
+
 a. data collection
 
 the analysis of the events is taken into consideration via a (present day):(previous day) ratio calculation.
