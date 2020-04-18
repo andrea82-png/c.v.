@@ -13,7 +13,7 @@ DESCRIPTION:
 a. data collection
 
 the analysis of the event is taken into consideration via a (present day):(previous day) ratio calculation.
-no single and different sub-events rather than the two polarized macro-categories (which sums up any possible incomes/outcomes) or additional information about the containment of the disease are concerned
+no single and different sub-events rather than the two polarized macro-categories (which sums up any possible incomes/outcomes) or additional information about the containment of the disease are concerned.
 Each arrow symbolizes a (healthly) positive or negative advancing of the spread in comparison of the overall data
 
 b. forecasting
